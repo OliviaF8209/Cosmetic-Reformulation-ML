@@ -14,7 +14,7 @@ The Strategy: I used SMOTE (Synthetic Minority Over-sampling Technique) to teach
 1. High-Volatility Categories
 My EDA shows that the Makeup category has the highest concentration of hazardous chemical flags. This highlights exactly where labs need to focus their "clean beauty" pivot.
 
-<img width="981" height="584" alt="image" src="https://github.com/user-attachments/assets/33484eae-c76f-40ea-a756-79b697e665ba" />
+<img width="981" height="583" alt="image" src="https://github.com/user-attachments/assets/ec811f4a-5df3-4459-aabe-ceffd44d62a4" />
 *Makeup remains the highest-risk category due to complex pigment formulations and frequent regulatory updates.*
 
 2. Engineering "Chemist Intuition"
